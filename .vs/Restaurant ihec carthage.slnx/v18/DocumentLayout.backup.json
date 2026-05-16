@@ -1,0 +1,374 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\forms\\gere_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|solutionrelative:forms\\gere_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\forms\\gere_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|solutionrelative:forms\\gere_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|c:\\users\\asus\\desktop\\pr ev\\restaurant ihec carthage\\forms\\ajout_per.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|solutionrelative:forms\\ajout_per.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|c:\\users\\asus\\desktop\\pr ev\\restaurant ihec carthage\\forms\\ajout_per.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|solutionrelative:forms\\ajout_per.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|c:\\users\\asus\\desktop\\pr ev\\restaurant ihec carthage\\forms\\gere_per.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|solutionrelative:forms\\gere_per.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|c:\\users\\asus\\desktop\\pr ev\\restaurant ihec carthage\\forms\\gere_per.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|solutionrelative:forms\\gere_per.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|c:\\users\\asus\\desktop\\pr ev\\restaurant ihec carthage\\forms\\ajout_utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|solutionrelative:forms\\ajout_utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|c:\\users\\asus\\desktop\\pr ev\\restaurant ihec carthage\\forms\\ajout_utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|solutionrelative:forms\\ajout_utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\forms\\gere_utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|solutionrelative:forms\\gere_utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|c:\\users\\asus\\desktop\\pr ev\\restaurant ihec carthage\\forms\\gere_utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|solutionrelative:forms\\gere_utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|c:\\users\\asus\\desktop\\pr ev\\restaurant ihec carthage\\forms\\formacca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|solutionrelative:forms\\formacca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|c:\\users\\asus\\desktop\\pr ev\\restaurant ihec carthage\\forms\\formacca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|solutionrelative:forms\\formacca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\forms\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|solutionrelative:forms\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|c:\\users\\asus\\desktop\\pr ev\\restaurant ihec carthage\\forms\\formacce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|solutionrelative:forms\\formacce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|c:\\users\\asus\\desktop\\pr ev\\restaurant ihec carthage\\forms\\formacce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|solutionrelative:forms\\formacce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|c:\\users\\asus\\desktop\\pr ev\\restaurant ihec carthage\\forms\\formaccp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|solutionrelative:forms\\formaccp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|c:\\users\\asus\\desktop\\pr ev\\restaurant ihec carthage\\forms\\formaccp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|solutionrelative:forms\\formaccp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\forms\\modifier_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|solutionrelative:forms\\modifier_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|c:\\users\\asus\\desktop\\pr ev\\restaurant ihec carthage\\forms\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|solutionrelative:forms\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\forms\\modifier_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}|Restaurant ihec carthage.csproj|solutionrelative:forms\\modifier_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ajout_per.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\ajout_per.cs",
+              "RelativeDocumentMoniker": "Forms\\ajout_per.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\ajout_per.cs",
+              "RelativeToolTip": "Forms\\ajout_per.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAYwFUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T22:11:16.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ajout_utilisateur.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\ajout_utilisateur.cs",
+              "RelativeDocumentMoniker": "Forms\\ajout_utilisateur.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\ajout_utilisateur.cs",
+              "RelativeToolTip": "Forms\\ajout_utilisateur.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAK8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T21:47:21.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ajout_utilisateur.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\ajout_utilisateur.cs",
+              "RelativeDocumentMoniker": "Forms\\ajout_utilisateur.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\ajout_utilisateur.cs [Design]",
+              "RelativeToolTip": "Forms\\ajout_utilisateur.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T21:47:18.399Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gere_menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\gere_menu.cs",
+              "RelativeDocumentMoniker": "Forms\\gere_menu.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\gere_menu.cs [Design]*",
+              "RelativeToolTip": "Forms\\gere_menu.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T23:26:24.478Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gere_menu.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\gere_menu.cs",
+              "RelativeDocumentMoniker": "Forms\\gere_menu.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\gere_menu.cs*",
+              "RelativeToolTip": "Forms\\gere_menu.cs*",
+              "ViewState": "AgIAACAAAAAAAAAAAAAYwDEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T23:27:08.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "gere_per.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\gere_per.cs",
+              "RelativeDocumentMoniker": "Forms\\gere_per.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\gere_per.cs [Design]",
+              "RelativeToolTip": "Forms\\gere_per.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T21:55:16.27Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "gere_per.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\gere_per.cs",
+              "RelativeDocumentMoniker": "Forms\\gere_per.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\gere_per.cs",
+              "RelativeToolTip": "Forms\\gere_per.cs",
+              "ViewState": "AgIAAEIBAAAAAAAAAAAAwFYBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T21:55:19.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ajout_per.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\ajout_per.cs",
+              "RelativeDocumentMoniker": "Forms\\ajout_per.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\ajout_per.cs [Design]",
+              "RelativeToolTip": "Forms\\ajout_per.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T22:11:13.27Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormAccA.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\FormAccA.cs",
+              "RelativeDocumentMoniker": "Forms\\FormAccA.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\FormAccA.cs",
+              "RelativeToolTip": "Forms\\FormAccA.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAAAPgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T21:17:11.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormAccA.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\FormAccA.cs",
+              "RelativeDocumentMoniker": "Forms\\FormAccA.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\FormAccA.cs [Design]",
+              "RelativeToolTip": "Forms\\FormAccA.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T21:11:11.041Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormAccP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\FormAccP.cs",
+              "RelativeDocumentMoniker": "Forms\\FormAccP.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\FormAccP.cs [Design]",
+              "RelativeToolTip": "Forms\\FormAccP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T19:53:36.39Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "gere_utilisateur.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\gere_utilisateur.cs",
+              "RelativeDocumentMoniker": "Forms\\gere_utilisateur.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\gere_utilisateur.cs [Design]",
+              "RelativeToolTip": "Forms\\gere_utilisateur.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T18:42:39.203Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "gere_utilisateur.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\gere_utilisateur.cs",
+              "RelativeDocumentMoniker": "Forms\\gere_utilisateur.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\gere_utilisateur.cs",
+              "RelativeToolTip": "Forms\\gere_utilisateur.cs",
+              "ViewState": "AgIAAGYBAAAAAAAAAAAowHMBAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T16:47:45.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormAccP.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\FormAccP.cs",
+              "RelativeDocumentMoniker": "Forms\\FormAccP.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\FormAccP.cs",
+              "RelativeToolTip": "Forms\\FormAccP.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAswJAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T20:08:06.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormAccE.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\FormAccE.cs",
+              "RelativeDocumentMoniker": "Forms\\FormAccE.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\FormAccE.cs [Design]",
+              "RelativeToolTip": "Forms\\FormAccE.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T20:15:02.881Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormAccE.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\FormAccE.cs",
+              "RelativeDocumentMoniker": "Forms\\FormAccE.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\FormAccE.cs",
+              "RelativeToolTip": "Forms\\FormAccE.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAkwMQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T20:15:08.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\FormLogin.cs",
+              "RelativeDocumentMoniker": "Forms\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\FormLogin.cs",
+              "RelativeToolTip": "Forms\\FormLogin.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswKYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T09:59:50.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\FormLogin.cs",
+              "RelativeDocumentMoniker": "Forms\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\FormLogin.cs [Design]",
+              "RelativeToolTip": "Forms\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T09:58:54.899Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "modifier_menu.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\modifier_menu.cs",
+              "RelativeDocumentMoniker": "Forms\\modifier_menu.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\modifier_menu.cs",
+              "RelativeToolTip": "Forms\\modifier_menu.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAcwL4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T23:45:16.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DATABASE.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\DATABASE.cs",
+              "RelativeDocumentMoniker": "DATABASE.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\DATABASE.cs",
+              "RelativeToolTip": "DATABASE.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T00:01:40.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "modifier_menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\modifier_menu.cs",
+              "RelativeDocumentMoniker": "Forms\\modifier_menu.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\pr ev\\Restaurant ihec carthage\\Forms\\modifier_menu.cs [Design]",
+              "RelativeToolTip": "Forms\\modifier_menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T23:27:16.17Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

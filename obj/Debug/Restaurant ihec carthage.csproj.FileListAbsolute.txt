@@ -1,0 +1,19 @@
+C:\Users\ASUS\Desktop\pr ev\Restaurant ihec carthage\obj\Debug\Restaurant ihec carthage.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\pr ev\Restaurant ihec carthage\obj\Debug\Restaurant_ihec_carthage.Properties.Resources.resources
+C:\Users\ASUS\Desktop\pr ev\Restaurant ihec carthage\obj\Debug\Restaurant ihec carthage.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\pr ev\Restaurant ihec carthage\obj\Debug\Restaurant ihec carthage.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\pr ev\Restaurant ihec carthage\bin\Debug\Restaurant ihec carthage.exe.config
+C:\Users\ASUS\Desktop\pr ev\Restaurant ihec carthage\bin\Debug\Restaurant ihec carthage.exe
+C:\Users\ASUS\Desktop\pr ev\Restaurant ihec carthage\bin\Debug\Restaurant ihec carthage.pdb
+C:\Users\ASUS\Desktop\pr ev\Restaurant ihec carthage\obj\Debug\Restaurant ihec carthage.exe
+C:\Users\ASUS\Desktop\pr ev\Restaurant ihec carthage\obj\Debug\Restaurant ihec carthage.pdb
+C:\Users\ASUS\Desktop\pr ev\Restaurant ihec carthage\obj\Debug\Restaurant_ihec_carthage.Forms.FormLogin.resources
+C:\Users\ASUS\Desktop\pr ev\Restaurant ihec carthage\obj\Debug\Restaurant_ihec_carthage.Forms.FormAccE.resources
+C:\Users\ASUS\Desktop\pr ev\Restaurant ihec carthage\obj\Debug\Restaurant_ihec_carthage.Forms.FormAccA.resources
+C:\Users\ASUS\Desktop\pr ev\Restaurant ihec carthage\obj\Debug\Restaurant_ihec_carthage.Forms.gere_per.resources
+C:\Users\ASUS\Desktop\pr ev\Restaurant ihec carthage\obj\Debug\Restaurant_ihec_carthage.Forms.gere_utilisateur.resources
+C:\Users\ASUS\Desktop\pr ev\Restaurant ihec carthage\obj\Debug\Restaurant_ihec_carthage.Forms.gere_menu.resources
+C:\Users\ASUS\Desktop\pr ev\Restaurant ihec carthage\obj\Debug\Restaurant_ihec_carthage.Forms.FormAccP.resources
+C:\Users\ASUS\Desktop\pr ev\Restaurant ihec carthage\obj\Debug\Restaurant_ihec_carthage.Forms.modifier_menu.resources
+C:\Users\ASUS\Desktop\pr ev\Restaurant ihec carthage\obj\Debug\Restaurant_ihec_carthage.Forms.ajout_utilisateur.resources
+C:\Users\ASUS\Desktop\pr ev\Restaurant ihec carthage\obj\Debug\Restaurant_ihec_carthage.Forms.ajout_per.resources

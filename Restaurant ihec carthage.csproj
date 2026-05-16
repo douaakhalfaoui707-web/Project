@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0D92DBE4-947D-43F7-9F2C-056DDD7A1941}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Restaurant_ihec_carthage</RootNamespace>
+    <AssemblyName>Restaurant ihec carthage</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DATABASE.cs" />
+    <Compile Include="Forms\ajout_per.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ajout_per.Designer.cs">
+      <DependentUpon>ajout_per.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ajout_utilisateur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ajout_utilisateur.Designer.cs">
+      <DependentUpon>ajout_utilisateur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormAccA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormAccA.Designer.cs">
+      <DependentUpon>FormAccA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormAccE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormAccE.Designer.cs">
+      <DependentUpon>FormAccE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormAccP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormAccP.Designer.cs">
+      <DependentUpon>FormAccP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\gere_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\gere_menu.Designer.cs">
+      <DependentUpon>gere_menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\gere_per.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\gere_per.Designer.cs">
+      <DependentUpon>gere_per.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\gere_utilisateur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\gere_utilisateur.Designer.cs">
+      <DependentUpon>gere_utilisateur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\modifier_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\modifier_menu.Designer.cs">
+      <DependentUpon>modifier_menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Session.cs" />
+    <EmbeddedResource Include="Forms\ajout_per.resx">
+      <DependentUpon>ajout_per.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ajout_utilisateur.resx">
+      <DependentUpon>ajout_utilisateur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormAccA.resx">
+      <DependentUpon>FormAccA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormAccE.resx">
+      <DependentUpon>FormAccE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormAccP.resx">
+      <DependentUpon>FormAccP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\gere_menu.resx">
+      <DependentUpon>gere_menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\gere_per.resx">
+      <DependentUpon>gere_per.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\gere_utilisateur.resx">
+      <DependentUpon>gere_utilisateur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\modifier_menu.resx">
+      <DependentUpon>modifier_menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2026-04-30 112112.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2026-04-30 122001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2026-04-30 122009.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2026-04-30 192645.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2026-04-30 1220011.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2026-04-30 195758.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\23566587-journal-en-dehors-icone-gratuit-vectoriel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8818517.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2026-05-01 213553.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2026-05-01 213648.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2026-05-01 213740.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2026-05-01 213800.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2026-05-01 2136481.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2026-05-01 221226.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2026-05-01 221251.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\téléchargement.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-vector-cancel-icon-png-image_420077.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\téléchargement %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\téléchargement %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\téléchargement %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\111.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2026-05-08 192833.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2026-05-08 193110.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2026-05-08 193216.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\téléchargement %284%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\téléchargement %285%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\téléchargement %286%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2222.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\téléchargement %288%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\téléchargement %287%29.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
